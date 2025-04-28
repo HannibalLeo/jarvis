@@ -566,14 +566,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -1561,14 +1561,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -2640,14 +2640,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -4495,14 +4495,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -5547,14 +5547,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -6763,14 +6763,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -8743,14 +8743,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -10002,14 +10002,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -11707,14 +11707,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -12988,14 +12988,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -13786,14 +13786,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BishengLLM",
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -14628,14 +14628,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BishengLLM",
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -15772,14 +15772,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BishengLLM",
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -17238,14 +17238,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BishengLLM",
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -18004,14 +18004,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -18864,14 +18864,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -20471,14 +20471,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BishengLLM",
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -25113,7 +25113,7 @@
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -25666,7 +25666,7 @@
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",
@@ -27262,14 +27262,14 @@
                   "model_config": {}
                 }
               },
-              "description": "依赖bisheng后端服务的llm组件",
+              "description": "依赖ZHIYAO后端服务的llm组件",
               "base_classes": [
                 "BaseLanguageModel",
                 "BaseChatModel",
                 "BishengLLM",
                 "BaseLLM"
               ],
-              "display_name": "BishengLLM",
+              "display_name": "ZHIYAOLLM",
               "output_types": [],
               "custom_fields": {},
               "documentation": "",

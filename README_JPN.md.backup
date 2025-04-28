@@ -2,14 +2,14 @@
 
 ---
 
-<img src="https://dataelem.com/bs/face.png" alt="ZHIYAO banner">
+<img src="https://dataelem.com/bs/face.png" alt="Bisheng banner">
 
 <p align="center">
     <a href="https://dataelem.feishu.cn/wiki/ZxW6wZyAJicX4WkG0NqcWsbynde"><img src="https://img.shields.io/badge/docs-Wiki-brightgreen"></a>
-    <img src="https://img.shields.io/github/license/dataelement/ZHIYAO" alt="license"/>
-    <img src="https://img.shields.io/docker/pulls/dataelement/ZHIYAO-frontend" alt="docker-pull-count" />
-    <a href=""><img src="https://img.shields.io/github/last-commit/dataelement/ZHIYAO"></a>
-    <a href="https://star-history.com/#dataelement/ZHIYAO&Timeline"><img src="https://img.shields.io/github/stars/dataelement/ZHIYAO?color=yellow"></a> 
+    <img src="https://img.shields.io/github/license/dataelement/bisheng" alt="license"/>
+    <img src="https://img.shields.io/docker/pulls/dataelement/bisheng-frontend" alt="docker-pull-count" />
+    <a href=""><img src="https://img.shields.io/github/last-commit/dataelement/bisheng"></a>
+    <a href="https://star-history.com/#dataelement/bisheng&Timeline"><img src="https://img.shields.io/github/stars/dataelement/bisheng?color=yellow"></a> 
 </p>
 <p align="center">
   <a href="./README_CN.md">简体中文</a> |
@@ -18,29 +18,29 @@
 </p>
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/717" target="_blank"><img src="https://trendshift.io/api/badge/repositories/717" alt="dataelement%2FZHIYAO | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+  <a href="https://trendshift.io/repositories/717" target="_blank"><img src="https://trendshift.io/api/badge/repositories/717" alt="dataelement%2Fbisheng | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 <div class="column" align="middle">
-  <!-- <a href="https://ZHIYAO.slack.com/join/shared_invite/"> -->
+  <!-- <a href="https://bisheng.slack.com/join/shared_invite/"> -->
     <!-- <img src="https://img.shields.io/badge/Join-Slack-orange" alt="join-slack"/> -->
   </a>
-  <!-- <img src="https://img.shields.io/github/license/ZHIYAO-io/ZHIYAO" alt="license"/> -->
-  <!-- <img src="https://img.shields.io/docker/pulls/ZHIYAO-io/ZHIYAO" alt="docker-pull-count" /> -->
+  <!-- <img src="https://img.shields.io/github/license/bisheng-io/bisheng" alt="license"/> -->
+  <!-- <img src="https://img.shields.io/docker/pulls/bisheng-io/bisheng" alt="docker-pull-count" /> -->
 </div>
 
-ZHIYAOは、エンタープライズシナリオに焦点を当てたオープンなLLMアプリケーションDevOpsプラットフォームです。多くの業界リーディング企業やフォーチュン500企業で使用されています。
+BISHENGは、エンタープライズシナリオに焦点を当てたオープンなLLMアプリケーションDevOpsプラットフォームです。多くの業界リーディング企業やフォーチュン500企業で使用されています。
 
-「畢昇（Bi Sheng）」は、活版印刷の発明者であり、人類の知識の伝播に重要な役割を果たしました。我々は、ZHIYAOがインテリジェントアプリケーションの広範な実装に強力なサポートを提供できることを願っています。皆さんの参加を歓迎します。
+「畢昇（Bi Sheng）」は、活版印刷の発明者であり、人類の知識の伝播に重要な役割を果たしました。我々は、BISHENGがインテリジェントアプリケーションの広範な実装に強力なサポートを提供できることを願っています。皆さんの参加を歓迎します。
 
 ## 特徴
-1. **独自の特徴を持つ[ZHIYAO workflow](https://dataelem.feishu.cn/wiki/R7HZwH5ZGiJUDrkHZXicA9pInif)**
+1. **独自の特徴を持つ[BISHENG workflow](https://dataelem.feishu.cn/wiki/R7HZwH5ZGiJUDrkHZXicA9pInif)**
    
    - 🧩 **独立性と完備性を備えたアプリケーションオーケストレーションフレームワーク**：1つのフレームワーク内でさまざまなタスクを実現可能（類似製品では、botの呼び出しが必要だったり、chatflowとworkflowに分けて異なるタスクを処理する必要があります）。
    - 🔄 **Human in the loop**：Workflowの実行途中でユーザーが介入やフィードバック（多ターン対話を含む）を行えます（類似製品では最初から最後まで一貫して実行されるのみ）。
    - 💥 **強力な機能**：ループ化、並列処理、一括処理、条件分岐ロジック、さらにこれら全ての自由な組み合わせが可能です。多種類の入出力、レポート作成、コンテンツ審査といった複雑なシナリオも対応可能。
-   - 🖐️ **直感的で使いやすい**：類似製品では専用のコンポーネントを使用する必要があるループ化、並列処理、一括処理操作も、ZHIYAOでは直感的に「フローチャート」として接続するだけで実現可能です（円を描けばループ化、並列に配置すれば並列処理、複数選択すれば一括処理）。
+   - 🖐️ **直感的で使いやすい**：類似製品では専用のコンポーネントを使用する必要があるループ化、並列処理、一括処理操作も、BISHENGでは直感的に「フローチャート」として接続するだけで実現可能です（円を描けばループ化、並列に配置すれば並列処理、複数選択すれば一括処理）。
 
-   <p align="center"><img src="https://dataelem.com/bs/ZHIYAO_workflow.png" alt="sence0"></p>
+   <p align="center"><img src="https://dataelem.com/bs/bisheng_workflow.png" alt="sence0"></p>
    
 2. **エンタープライズアプリケーション向けに設計**: ドキュメントレビュー、固定レイアウトレポート生成、マルチエージェント協働、ポリシー更新比較、サポートチケット支援、カスタマーサービス支援、会議議事録生成、履歴書スクリーニング、通話記録分析、非構造化データガバナンス、知識採掘、データ分析など。プラットフォームは、**高度に複雑なエンタープライズアプリケーションシナリオの構築**をサポートし、**深い最適化**を行い、数百のコンポーネントと数千のパラメータを提供します。
 <p align="center"><img src="https://dataelem.com/bs/chat.png" alt="sence1"></p>
@@ -56,27 +56,27 @@ ZHIYAOは、エンタープライズシナリオに焦点を当てたオープ�
 
 ## クイックスタート
 
-ZHIYAOをインストールする前に、以下の条件を満たしていることを確認してください:
+BISHENGをインストールする前に、以下の条件を満たしていることを確認してください:
 - CPU >= 8 コア
 - RAM >= 32 GB
 - Docker 19.03.9以上
 - Docker Compose 1.25.1以上
 
-> ZHIYAOをインストールする際、デフォルトで以下のサードパーティコンポーネントもインストールされます: ES, Milvus, Onlyoffice。
+> BISHENGをインストールする際、デフォルトで以下のサードパーティコンポーネントもインストールされます: ES, Milvus, Onlyoffice。
 
-ZHIYAOのダウンロード
+BISHENGのダウンロード
 ```bash
-git clone https://github.com/dataelement/ZHIYAO.git
+git clone https://github.com/dataelement/bisheng.git
 # インストールディレクトリに移動
-cd ZHIYAO/docker
+cd bisheng/docker
 
-# システムにgitコマンドがない場合は、ZHIYAOのコードをzipファイルとしてダウンロードできます。
-wget https://github.com/dataelement/ZHIYAO/archive/refs/heads/main.zip
+# システムにgitコマンドがない場合は、BISHENGのコードをzipファイルとしてダウンロードできます。
+wget https://github.com/dataelement/bisheng/archive/refs/heads/main.zip
 # 解凍してインストールディレクトリに移動
-unzip main.zip && cd ZHIYAO-main/docker
+unzip main.zip && cd bisheng-main/docker
 ```
 
-ZHIYAOの起動
+BISHENGの起動
 ```bash
 docker-compose up -d
 ```
@@ -92,8 +92,8 @@ docker-compose up -d
 
 **貢献者に感謝します：**
 
-<a href="https://github.com/dataelement/ZHIYAO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dataelement/ZHIYAO" />
+<a href="https://github.com/dataelement/bisheng/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dataelement/bisheng" />
 </a>
 
 ## コミュニティと連絡先

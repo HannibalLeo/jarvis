@@ -263,3 +263,9 @@ sftp-config.json
 
 /tmp/*
 sftp-config.json
+
+# mysql
+docker/mysql/data/
+
+# data
+docker/data/

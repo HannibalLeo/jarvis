@@ -121,10 +121,10 @@ def clear_error_password_key(username: str):
 @router.post('/user/login', response_model=UnifiedResponseModel[UserRead], status_code=201)
 async def login(*, request: Request, user: UserLogin, Authorize: AuthJWT = Depends()):
     # 验证码校验
-    if settings.get_from_db('use_captcha'):
-        if not user.captcha_key or not await verify_captcha(user.captcha, user.captcha_key):
-            raise HTTPException(status_code=500, detail='验证码错误')
-
+    # if settings.get_from_db('use_captcha'):
+    #     if not user.captcha_key or not await verify_captcha(user.captcha, user.captcha_key):
+    #         raise HTTPException(status_code=500, detail='验证码错误')
+   
     password = UserService.decrypt_md5_password(user.password)
 
     db_user = UserDao.get_user_by_username(user.user_name)

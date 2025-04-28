@@ -28,7 +28,7 @@ system_login_method:
   admin_username: admin # 从 SSO/LDAP 注册的管理员用户名
 
 # 登陆页面是否需要输入验证码，可设置为True或False
-use_captcha: True
+use_captcha: false
 
 # 会话窗口底部提示文案
 dialog_tips:
@@ -41,7 +41,7 @@ env:
   # websocket_url: 192.168.106.120:3003
   office_url: http://IP:8701 # onlyoffice 组件地址，需要浏览器能直接访问
   # 是否展示前端界面上的github和帮助链接
-  show_github_and_help: true
+  show_github_and_help: false
   # 是否开启注册
   enable_registration: true
 
